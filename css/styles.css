@@ -685,13 +685,25 @@ right: 24px;
 
 .modal-caption {
     font-family: "Roboto", sans-serif;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-text-align: center;
-color: #2e2f42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 margin-top: 72px;
+margin-bottom: 16px;
+}
 
-
+.modal-form {
+}
+.modal-field {
+}
+.modal-label {
+}
+.input-box {
+}
+.modal-input-info {
+}
+.modal-input-icon {
 }
