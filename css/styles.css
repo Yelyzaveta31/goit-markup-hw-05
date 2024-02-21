@@ -764,10 +764,10 @@ transform:  translateY(-50%);
 }
 
 
-.input:hover + .modal-input-icon,
-.input:focus + .modal-input-icon{
+.modal-input-info:hover + .modal-input-icon,
+.modal-input-info:focus + .modal-input-icon{
     fill: #4D5AE5;
-    border-color: #4d5ae5;
+    
 }
 
 .modal-textarea {
