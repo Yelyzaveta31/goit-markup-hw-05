@@ -741,6 +741,11 @@ padding-left: 38px;
 outline: transparent; 
 }
 
+.modal-close-icon:hover,
+.modal-close-icon:focus {
+    fill: #ffffff
+}
+
 .modal-input-info:focus {
     border-color:#4d5ae5;
     fill: #4D5AE5;
@@ -759,7 +764,7 @@ transform:  translateY(-50%);
 
 .modal-input-icon:hover,
 .modal-input-icon:focus {
-    fill: #FFFFFF;
+    fill: #4D5AE5;
 
 }
 
