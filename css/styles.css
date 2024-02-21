@@ -769,8 +769,8 @@ transform:  translateY(-50%);
 }
 
 
-.modal-input-info:hover+.modal-input-icon,
-.modal-close-btn:focus+.modal-close-icon{
+.modal-input-info:hover + .modal-input-icon,
+.modal-close-btn:focus + .modal-close-icon{
     fill: #4D5AE5;
     border-color: #4d5ae5;
 }
