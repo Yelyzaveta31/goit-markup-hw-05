@@ -217,12 +217,12 @@ bottom: -1px;
 
 /*  друга секція */
 
-.section-advantages {
+.section-benefits {
     display: flex;
     padding: 120px 0;
 }
 
-.advantages-list {
+.benefits-list {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -231,12 +231,12 @@ bottom: -1px;
 }
  
 
-.advantages-list-item {
+.benefits-list-item {
     width: calc(( 100% - 72px ) / 4);
     
 }
 
-.advantages-svg-container {
+.benefits-svg-container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -248,7 +248,7 @@ bottom: -1px;
     border: 1px solid #8e8f99;
 }
 
-.advantages-svg {
+.benefits-svg {
     margin: 0 auto;
 }
 
